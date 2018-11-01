@@ -1,0 +1,22 @@
+{
+  "success": {
+    "total": 1
+  },
+  "contents": {
+    "quotes": [{
+      "quote": "We programmers are weird creatures . We love writing code. But when it comes to reading it, we usually shy away. After all, writing code is so much more fun, and reading code is hard—sometimes almost impossible. Reading other people’s code is particularly hard. Not necessarily because other people’s code is bad, but because they probably think and solve problems in a different way than you.",
+      "author": "Karianne Berg",
+      "tags": [
+        "code",
+        "meaning"
+      ],
+      "category": "software",
+      "date": "2018-10-31",
+      "permalink": "https://theysaidso.com/quote/karianne-berg-we-programmers-are-weird-creatures-we-love-writing-code-but-when-i",
+      "title": "Inspiring Quote of the day",
+      "background": "https://source.unsplash.com/800x500/?wallpaper",
+      "id": "jzHtw1MHyMSnyREfzYQ82AeF"
+    }],
+    "copyright": "2017-19 theysaidso.com"
+  }
+}

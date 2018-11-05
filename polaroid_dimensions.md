@@ -9,7 +9,9 @@ source: https://support.polaroidoriginals.com/hc/en-us/articles/115012363647-Pol
 # pixel converter
 
 https://www.pixelto.net/inches-to-px-converter
+
 https://www.unitconverters.net/typography/inch-to-pixel-x.htm
+
 http://www.unitconversion.org/typography/inchs-to-pixels-y-conversion.html
 
 1 inch = 96 pixel
